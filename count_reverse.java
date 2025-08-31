@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class aug30 {
+public class count_reverse {
      public static void main(String[] args) {
     //     //  int a=3567;
          Scanner s=new Scanner(System.in);
