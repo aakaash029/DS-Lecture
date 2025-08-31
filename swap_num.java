@@ -1,4 +1,4 @@
-public class aug27 {
+public class swap_num {
     public static void main(String[] args) {
         int a=10;
         int b=20;
@@ -15,6 +15,5 @@ public class aug27 {
         // after swapping
         System.out.println(a);
         System.out.println(b);
-        
     }
 }
